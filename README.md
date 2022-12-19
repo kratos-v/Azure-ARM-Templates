@@ -16,5 +16,5 @@ Deployemnt:
 -> Enter the VNET, Subnet name and range to be created
 -> Enter the Size of the VM to be created (Choose it wisely)
 	Refer: https://learn.microsoft.com/en-us/azure/templates/microsoft.compute/virtualmachines?pivots=deployment-language-bicep
--> Enter the name for VM to be created.
+	-> Enter the name for VM to be created.
 
